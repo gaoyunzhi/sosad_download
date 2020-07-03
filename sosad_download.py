@@ -34,4 +34,4 @@ def download(url, force_cache = False):
 		f.write(compactText(''.join(result)))
 	
 if __name__ == "__main__":
-	download('https://sosad.fun/threads/64040/profile', force_cache = True)
+	download('https://sosad.fun/threads/64862/profile', force_cache = True)
